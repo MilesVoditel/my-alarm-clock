@@ -25,12 +25,12 @@ Hours 10-11 Worked on developing base understanding of arduino code (which, than
 Hours 11-14 Wrote code for alarm clock
 
 BOM
-1x Lolin C3 Mini ESP 32 Devboard
-12x Keyboard Switches
-1x 2.25in TFT Screen
-1x 3.3V Piezo Buzzer
-10x M-M Jumper Cables
-10x F-M Jumper Cables
-10x F-F Jumper Cables
-2x Screws
-2x Bolts
+- 1x Lolin C3 Mini ESP 32 Devboard
+- 12x Keyboard Switches
+- 1x 2.25in TFT Screen
+- 1x 3.3V Piezo Buzzer
+- 10x M-M Jumper Cables
+- 10x F-M Jumper Cables
+- 10x F-F Jumper Cables
+- 2x Screws
+- 2x Bolts
