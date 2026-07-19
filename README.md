@@ -13,16 +13,15 @@ Short Time Breakdown
 Hours 1-2 Worked on base idea and getting wiring schematic done
 <img width="1164" height="656" alt="Final-Wiring-Alarm-Clock" src="https://github.com/user-attachments/assets/ca4ec576-aa7e-4edd-acb0-8d2c8097d27f" />
 
-Hours 3-7 Worked on model in OnShape, learning how to use it as I went (my two years of CAD experience are split between Autodesk Inventor and Fusion360)
+Hours 3-7 Worked on model in OnShape, learning how to use it as I went (my two previous years of CAD experience before this project were split between Autodesk Inventor and Fusion360)
 
 <img width="741" height="633" alt="image" src="https://github.com/user-attachments/assets/6b413b1d-6f12-44a1-ab9b-26f5bb80c67b" />
 
-Hours 8-10 Installed VS Code, platformio (which is how I could work with arduino), and all necessary libraries
-<img width="489" height="97" alt="image" src="https://github.com/user-attachments/assets/a8b4944e-553e-4c4f-977c-e1503541e9f2" />
+Spent 5 hours installing VS Code and platformio, then learning how to use them IMPORTANT: TIME SPENT ON LEARNING DOES NOT COUNT TOWARDS TOTAL TIME SPENT ON PROJECT
 
-Hours 10-11 Worked on developing base understanding of arduino code (which, thankfully, has some similairities to processing)
+Hours 7-8.5 Wrote code for alarm clock
 
-Hours 11-14 Wrote code for alarm clock
+Total Time Spent: 8.5 Hours
 
 BOM
 - 1x Lolin C3 Mini ESP 32 Devboard
